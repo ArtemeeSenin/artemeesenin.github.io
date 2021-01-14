@@ -1,11 +1,11 @@
-# Artem Senin
-## Front-end Developer
+# Nerian Bortein
+## UX Designer
 
-Phone: +79119042477
+Phone: +79819065105
 
-Email: artemee.senin@yandex.ru
+Email: nerianbortein@gmail.com
 
 
 ### Resume 
 
-My experience [in more detail](https://artemeesenin.github.io)
+My experience [in more detail](https://nerianbortein.github.io)
